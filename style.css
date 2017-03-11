@@ -1,0 +1,41 @@
+        body{
+	    background-color: grey;
+		}
+		h1{
+		font-size: 40px;
+		font-weight: bold;
+		text-shadow: 10px 10px 10px black;
+		
+		}
+		.jumbotron .h1, .jumbotron h1 {
+		color:white;
+		text-shadow: 20px 20px 20px black;
+		-webkit-text-stroke: 1px black;
+		font-weight: bold;
+		text-align: right;
+		position: relative;
+		top:-60px;
+		padding-top:7px;
+		}
+		.jumbotron{
+		margin-top: 20px;
+		box-shadow: 10px 10px 10px black;
+		background:url("http://www.swissvistas.com/image-files/swiss-trains-01.jpg");
+		background-repeat: no-repeat;
+		background-size: 1300px 250px;
+		}
+		.panel-body{
+		box-shadow: 10px 10px 10px black;
+		}
+		.overflow{
+		overflow:auto;
+		height:500px;
+		}
+		.panel-primary>.panel-heading {
+		background-color: black;
+		font-weight: bold;
+		}
+		.btn-primary {
+		background-color: black;
+		font-weight: bold;
+		}
